@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Dev-Henriquecampelo 😁
+## Bem-vindo(a) ao perfil Dev-Henriquecampelo 
 
  <div>
    <a href="https://github.com/Dev-Henriquecampelo">
